@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   First Robotics FTC team #25750 BlitzBots Home Site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: blitzbots
+twitter_username: blitzbotsftc
 github_username:  blitzbots
 
 # Build settings
