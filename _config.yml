@@ -21,7 +21,7 @@
 title: Blitz Bots' Garage
 email: contact@blitzbots.org
 description: >- # this means to ignore newlines until "baseurl:"
-  First Robotics FTC team #25750 BlitzBots Home Site
+  First Robotics FTC team #25750 BlitzBots
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: blitzbotsftc
